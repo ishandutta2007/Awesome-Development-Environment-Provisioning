@@ -30,29 +30,26 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The global Cloud Development Environment (CDE) and Cloud IDE market is estimated at approximately $6.8 billion to $7.5 billion, expanding at a CAGR exceeding 18% driven by distributed engineering teams and AI-augmented coding workloads. The sector is **moderately to highly fragmented** rather than winner-take-all, balancing hyperscaler ecosystems (such as GitHub Codespaces and AWS Cloud9) with agile, vendor-neutral, and self-hosted specialist platforms catering to strict enterprise security and Kubernetes-native requirements.
 
 
 
 ## SaaS/Hosted Platforms
 
-
-
-- **Gitpod (Cloud)**
-
-  **Cloud-based development environment platform** with prebuilds that cut startup time from minutes to seconds . Runs entirely in the browser, offloading compute from local machines . **Note**: Fully cloud-hosted—no self-hosting for the managed platform. **Best for**: teams with lightweight laptops or intermittent contributors who want zero-setup environments without local Docker.
-
-
-
-- **Okteto (Cloud)**
-
-  **Managed platform for remote development environments on Kubernetes**. Provides per-developer namespaces and preview environments. **Note**: Cloud-managed, with self-hosted options for enterprise. **Best for**: teams already on Kubernetes who want remote inner loops without local cluster overhead.
+| Platform | Starting Tier Pricing | Free Tier / Trial Limits | Company Size (Valuation / Funding / ARR) | Description & Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| **Gitpod** | $9/user/month (Pay-as-you-go / 1,000 credits tier) | 500 credits/month (approx. 50 hours standard workspace usage) free forever for first organization | Valuation: ~$100M+ (tripled upon Series A) / $41M raised / ~$4M ARR | Cloud-based development environment platform with automated prebuilds that cut startup time to seconds. *Best for*: teams with lightweight laptops or intermittent contributors needing zero-setup environments. |
+| **Okteto** | Custom quote / Contact Sales (Historically $19/user/month for Pro) | 5 seats free forever for self-hosted Starter tier; 30-day extended trial on enterprise clusters | Valuation: ~$60M–$100M / $18.1M raised / ~$4M–$5M ARR | Managed and self-hosted platform for remote development environments on Kubernetes providing per-developer namespaces and preview environments. *Best for*: teams running on Kubernetes seeking remote inner loops without local cluster overhead. |
 
 
 
