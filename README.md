@@ -69,7 +69,7 @@ The sector is **moderately to highly fragmented** rather than winner-take-all. H
 *Ranked in descending order by GitHub stargazer count.*
 
 ### 1. 🐳 [Docker Swarm (Docker Engine)](https://github.com/moby/moby)
-[![GitHub Stars](https://img.shields.io/github/stars/moby/moby?style=social&color=white)](https://github.com/moby/moby/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/moby/moby?style=social&color=white)](https://github.com/moby/moby/stargazers)
 * **License**: Apache-2.0
 * **Category**: Container Orchestration / Multi-Node Provisioning
 * **Overview**: **Native Docker clustering and container orchestration built right into the Docker Engine**. A single `docker swarm init` creates a production-like cluster that interprets standard Compose files with zero extra external daemons.
@@ -79,7 +79,7 @@ The sector is **moderately to highly fragmented** rather than winner-take-all. H
 ---
 
 ### 2. ⚡ [Daytona](https://github.com/daytonaio/daytona)
-[![GitHub Stars](https://img.shields.io/github/stars/daytonaio/daytona?style=social&color=white)](https://github.com/daytonaio/daytona/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/daytonaio/daytona?style=social&color=white)](https://github.com/daytonaio/daytona/stargazers)
 * **License**: Apache-2.0
 * **Category**: Self-Hosted Cloud Development Environment (CDE) / Dev-Environment-as-Code
 * **Overview**: **The open-source development environment orchestrator**. Daytona sets up fully configured, standardized development environments with a single command on any infrastructure—whether local machines, bare-metal servers, Docker hosts, or remote cloud providers.
@@ -89,7 +89,7 @@ The sector is **moderately to highly fragmented** rather than winner-take-all. H
 ---
 
 ### 3. 🐙 [Docker Compose](https://github.com/docker/compose)
-[![GitHub Stars](https://img.shields.io/github/stars/docker/compose?style=social&color=white)](https://github.com/docker/compose/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/docker/compose?style=social&color=white)](https://github.com/docker/compose/stargazers)
 * **License**: Apache-2.0
 * **Category**: Local Multi-Container Stacks
 * **Overview**: **The gold standard for defining and running multi-container Docker applications**. One declarative YAML file coordinates services, internal DNS networks, persistent volumes, and health check-aware dependency startup (`depends_on`).
@@ -99,7 +99,7 @@ The sector is **moderately to highly fragmented** rather than winner-take-all. H
 ---
 
 ### 4. 🚢 [Minikube](https://github.com/kubernetes/minikube)
-[![GitHub Stars](https://img.shields.io/github/stars/kubernetes/minikube?style=social&color=white)](https://github.com/kubernetes/minikube/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/kubernetes/minikube?style=social&color=white)](https://github.com/kubernetes/minikube/stargazers)
 * **License**: Apache-2.0
 * **Category**: Local Kubernetes Cluster
 * **Overview**: **The beginner-friendly local Kubernetes cluster**. Provisions a single-node or multi-node cluster inside a VM, container, or bare-metal environment with a rich ecosystem of built-in addons (Dashboard, Ingress, Metrics-Server, Istio).
@@ -109,7 +109,7 @@ The sector is **moderately to highly fragmented** rather than winner-take-all. H
 ---
 
 ### 5. 📦 [Vagrant](https://github.com/hashicorp/vagrant)
-[![GitHub Stars](https://img.shields.io/github/stars/hashicorp/vagrant?style=social&color=white)](https://github.com/hashicorp/vagrant/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/hashicorp/vagrant?style=social&color=white)](https://github.com/hashicorp/vagrant/stargazers)
 * **License**: MIT / BSL
 * **Category**: Virtual Machine Provisioning & Environment-as-Code
 * **Overview**: **Tool for building and distributing reproducible virtual machine environments**. Defines configurations in a `Vagrantfile` (OS image, provisioning scripts, port forwardings) executed across VirtualBox, VMware, Libvirt, or Hyper-V.
@@ -119,7 +119,7 @@ The sector is **moderately to highly fragmented** rather than winner-take-all. H
 ---
 
 ### 6. 💻 [Coder](https://github.com/coder/coder)
-[![GitHub Stars](https://img.shields.io/github/stars/coder/coder?style=social&color=white)](https://github.com/coder/coder/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/coder/coder?style=social&color=white)](https://github.com/coder/coder/stargazers)
 * **License**: AGPL-3.0
 * **Category**: Enterprise Cloud Development Environments (CDE) via Terraform
 * **Overview**: **Self-hosted remote development environments provisioned via Terraform**. Coder allows platform engineers to define workspaces using Terraform templates on Kubernetes, Docker, AWS, GCP, Azure, or on-premise infrastructure.
@@ -129,7 +129,7 @@ The sector is **moderately to highly fragmented** rather than winner-take-all. H
 ---
 
 ### 7. 🔄 [Skaffold](https://github.com/GoogleContainerTools/skaffold)
-[![GitHub Stars](https://img.shields.io/github/stars/GoogleContainerTools/skaffold?style=social&color=white)](https://github.com/GoogleContainerTools/skaffold/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/GoogleContainerTools/skaffold?style=social&color=white)](https://github.com/GoogleContainerTools/skaffold/stargazers)
 * **License**: Apache-2.0
 * **Category**: Kubernetes Inner-Loop / Continuous Dev CLI
 * **Overview**: **Google's CLI for repeatable, portable Kubernetes development**. Automates the build-push-deploy loop locally or in CI pipelines; detects source code changes and instantly redeploys or syncs files.
@@ -139,7 +139,7 @@ The sector is **moderately to highly fragmented** rather than winner-take-all. H
 ---
 
 ### 8. ☸️ [Kind (Kubernetes IN Docker)](https://github.com/kubernetes-sigs/kind)
-[![GitHub Stars](https://img.shields.io/github/stars/kubernetes-sigs/kind?style=social&color=white)](https://github.com/kubernetes-sigs/kind/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/kubernetes-sigs/kind?style=social&color=white)](https://github.com/kubernetes-sigs/kind/stargazers)
 * **License**: Apache-2.0
 * **Category**: Ephemeral Local Kubernetes Testing
 * **Overview**: **Runs local Kubernetes nodes as container processes**. Designed specifically for testing Kubernetes itself, Kind spins up multi-node local clusters in seconds and integrates natively into GitHub Actions and CI environments.
@@ -149,7 +149,7 @@ The sector is **moderately to highly fragmented** rather than winner-take-all. H
 ---
 
 ### 9. 🧰 [Devbox](https://github.com/jetpack-io/devbox)
-[![GitHub Stars](https://img.shields.io/github/stars/jetpack-io/devbox?style=social&color=white)](https://github.com/jetpack-io/devbox/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/jetpack-io/devbox?style=social&color=white)](https://github.com/jetpack-io/devbox/stargazers)
 * **License**: Apache-2.0
 * **Category**: Nix-Powered Isolated Developer Shells
 * **Overview**: **Instant, reproducible development shells powered by Nix without Nix syntax headaches**. Uses a simple declarative `devbox.json` to install exact tool versions, packages, and scripts in isolated environments.
@@ -159,7 +159,7 @@ The sector is **moderately to highly fragmented** rather than winner-take-all. H
 ---
 
 ### 10. 🌐 [vcluster (Virtual Kubernetes Clusters)](https://github.com/loft-sh/vcluster)
-[![GitHub Stars](https://img.shields.io/github/stars/loft-sh/vcluster?style=social&color=white)](https://github.com/loft-sh/vcluster/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/loft-sh/vcluster?style=social&color=white)](https://github.com/loft-sh/vcluster/stargazers)
 * **License**: Apache-2.0
 * **Category**: Multi-Tenant Kubernetes Provisioning
 * **Overview**: **Lightweight, fully functional virtual Kubernetes clusters inside regular namespaces of a physical cluster**. Developers get full admin access (CRDs, namespaces, RBAC) inside their virtual slice without endangering the underlying cluster.
@@ -169,7 +169,7 @@ The sector is **moderately to highly fragmented** rather than winner-take-all. H
 ---
 
 ### 11. 🎯 [Tilt](https://github.com/tilt-dev/tilt)
-[![GitHub Stars](https://img.shields.io/github/stars/tilt-dev/tilt?style=social&color=white)](https://github.com/tilt-dev/tilt/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/tilt-dev/tilt?style=social&color=white)](https://github.com/tilt-dev/tilt/stargazers)
 * **License**: Apache-2.0
 * **Category**: Kubernetes Dev Inner-Loop Accelerator
 * **Overview**: **Live update orchestration and visual dashboard for microservice development on Kubernetes**. Leverages a Python-like `Tiltfile` (Starlark) to hot-reload code directly into containers without rebuilding images.
@@ -179,7 +179,7 @@ The sector is **moderately to highly fragmented** rather than winner-take-all. H
 ---
 
 ### 12. ❄️ [Devenv](https://github.com/cachix/devenv)
-[![GitHub Stars](https://img.shields.io/github/stars/cachix/devenv?style=social&color=white)](https://github.com/cachix/devenv/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/cachix/devenv?style=social&color=white)](https://github.com/cachix/devenv/stargazers)
 * **License**: Apache-2.0
 * **Category**: Fast, Composable Nix Developer Environments
 * **Overview**: **Modular development environments made reproducible and declarative via Nix**. Automates package installation, background processes (Postgres, Redis), shell hooks, and pre-commit checks in a clean config.
@@ -189,7 +189,7 @@ The sector is **moderately to highly fragmented** rather than winner-take-all. H
 ---
 
 ### 13. 🏎️ [K3d](https://github.com/k3d-io/k3d)
-[![GitHub Stars](https://img.shields.io/github/stars/k3d-io/k3d?style=social&color=white)](https://github.com/k3d-io/k3d/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/k3d-io/k3d?style=social&color=white)](https://github.com/k3d-io/k3d/stargazers)
 * **License**: MIT
 * **Category**: Lightweight K3s Local Cluster
 * **Overview**: **Wraps Rancher's lightweight K3s Kubernetes distribution inside Docker containers**. Bootstraps a production-compatible cluster in 15–30 seconds with half the RAM footprint of standard Minikube.
@@ -199,7 +199,7 @@ The sector is **moderately to highly fragmented** rather than winner-take-all. H
 ---
 
 ### 14. 🦭 [Podman Compose](https://github.com/containers/podman-compose)
-[![GitHub Stars](https://img.shields.io/github/stars/containers/podman-compose?style=social&color=white)](https://github.com/containers/podman-compose/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/containers/podman-compose?style=social&color=white)](https://github.com/containers/podman-compose/stargazers)
 * **License**: GPL-2.0
 * **Category**: Rootless, Daemonless Compose Alternative
 * **Overview**: **Specification-compatible compose tool designed for daemonless, rootless Podman environments**. Runs multi-container setups unprivileged, minimizing the security attack surface on developer hosts and CI runners.
@@ -209,7 +209,7 @@ The sector is **moderately to highly fragmented** rather than winner-take-all. H
 ---
 
 ### 15. 📐 [DevContainer Specification](https://github.com/devcontainers/spec)
-[![GitHub Stars](https://img.shields.io/github/stars/devcontainers/spec?style=social&color=white)](https://github.com/devcontainers/spec/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/devcontainers/spec?style=social&color=white)](https://github.com/devcontainers/spec/stargazers)
 * **License**: MIT
 * **Category**: Open Environment-as-Code Standard
 * **Overview**: **Open specification defining development environments using `devcontainer.json`**. Standardizes container definitions, editor extensions, lifecycle hooks, and port forwarding across VS Code, GitHub Codespaces, DevPod, and JetBrains.
@@ -219,7 +219,7 @@ The sector is **moderately to highly fragmented** rather than winner-take-all. H
 ---
 
 ### 16. 🚀 [DevSpace](https://github.com/devspace-sh/devspace)
-[![GitHub Stars](https://img.shields.io/github/stars/devspace-sh/devspace?style=social&color=white)](https://github.com/devspace-sh/devspace/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/devspace-sh/devspace?style=social&color=white)](https://github.com/devspace-sh/devspace/stargazers)
 * **License**: Apache-2.0
 * **Category**: Client-Only Kubernetes Dev Workflow
 * **Overview**: **High-speed client-only CLI tool for Kubernetes development**. Offers bidirectional real-time file synchronization, in-cluster debugging, and one-command environment launch directly against remote or local clusters.
@@ -229,7 +229,7 @@ The sector is **moderately to highly fragmented** rather than winner-take-all. H
 ---
 
 ### 17. 🌳 [Garden](https://github.com/garden-io/garden)
-[![GitHub Stars](https://img.shields.io/github/stars/garden-io/garden?style=social&color=white)](https://github.com/garden-io/garden/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/garden-io/garden?style=social&color=white)](https://github.com/garden-io/garden/stargazers)
 * **License**: Apache-2.0
 * **Category**: Full-Stack Environment Automation & Dependency Graph
 * **Overview**: **Graph-based orchestration platform for Kubernetes, containers, and serverless stacks**. Constructs a dynamic dependency graph across builds, tests, Terraform runs, and Helm charts with aggressive shared test and image caching.
@@ -251,7 +251,7 @@ Contributions are warmly welcomed! Please follow these steps to keep the list va
 
 1. 🍴 **Fork the repository**.
 2. 🌿 **Create a new branch**: `git checkout -b add-provisioning-tool`.
-3. 📝 **Add or update an entry** in `README.md` maintaining consistent formatting, star badge link, license, and objective trade-offs.
+3. 📝 **Add or update an entry** in `README.md` maintaining consistent formatting, Stars_Badge link, license, and objective trade-offs.
 4. ✅ **Ensure accuracy**: Verify links, pricing, licenses, and star links.
 5. 🚀 **Submit a Pull Request** with a concise description of why the tool belongs in this collection.
 
